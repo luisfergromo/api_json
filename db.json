@@ -22,5 +22,7 @@
          "email":"alexa@c.com"
       }
    ],
-   "profile":"admin"
+   "profile": {
+    "name": "admin"
+  }
 }
