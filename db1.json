@@ -1,4 +1,4 @@
-[
+{
 "users":[
 {
 "id":1,
@@ -21,6 +21,7 @@
 "genre":"Female",
 "email":"alexa@c.com"
 }
-  ]
-]
+  ],
+  "profile":"admin"
+}
 
