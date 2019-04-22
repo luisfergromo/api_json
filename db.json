@@ -1,27 +1,26 @@
 {
-"users":[
-{
-"id":1,
-"name":"Jhon",
-"age":"23",
-"genre":"Male",
-"email":"jhon@a.com"
-},
-{
-"id":2,
-"name":"Mike",
-"age":"30",
-"genre":"Male",
-"email":"mike@b.com"
-},
-{
-"id":3,
-"name":"Alexa",
-"age":"20",
-"genre":"Female",
-"email":"alexa@c.com"
+   "users":[
+      {
+         "id":1,
+         "name":"Jhon",
+         "age":"23",
+         "genre":"Male",
+         "email":"jhon@a.com"
+      },
+      {
+         "id":2,
+         "name":"Mike",
+         "age":"30",
+         "genre":"Male",
+         "email":"mike@b.com"
+      },
+      {
+         "id":3,
+         "name":"Alexa",
+         "age":"20",
+         "genre":"Female",
+         "email":"alexa@c.com"
+      }
+   ],
+   "profile":"admin"
 }
-  ],
-  "profile":"admin"
-}
-
