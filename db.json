@@ -1,5 +1,5 @@
 {
-    "list": [
+   
         {
             "id": 1,
             "name": "Groceries",
@@ -30,5 +30,5 @@
             "name": "Fees",
             "amount": 30.0
         }
-    ]
+
 }
