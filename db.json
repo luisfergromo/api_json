@@ -1,0 +1,34 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "name": "Groceries",
+            "amount": 500.0
+        },
+        {
+            "id": 2,
+            "name": "Online Shoping",
+            "amount": 100.0
+        },
+        {
+            "id": 3,
+            "name": "Eating Ou",
+            "amount": 80.0
+        },
+        {
+            "id": 4,
+            "name": "Bills",
+            "amount": 50.0
+        },
+        {
+            "id": 5,
+            "name": "Subscriptions",
+            "amount": 100.0
+        },
+        {
+            "id": 6,
+            "name": "Fees",
+            "amount": 30.0
+        }
+    ]
+}
