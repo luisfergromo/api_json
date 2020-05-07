@@ -31,6 +31,14 @@
             "amount": 30.0
         }
 ],
-"profile":{"first_name":"Benjamin","last_name","benjamin franklin"}
+"profile":{
+   "first_name":"Benjamin",
+           "last_name":"franklin",
+   "details":[
+      "address":"fake avenue",
+      "home_no":3454,
+      "phone_number:"+5565432323"
+      ]
+}
 
 ]
