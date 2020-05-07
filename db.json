@@ -38,7 +38,8 @@
       "details": [
         {
           "address": "fake avenue",
-          "home_no": 3454,
+          "home_no": [{"external":3454,"internal":3
+          }],
           "phone_number": "+5565432323"
         }
       ]
