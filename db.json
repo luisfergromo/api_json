@@ -6,8 +6,8 @@
             "amount": 500.0
         },
         {
-            "id": 2,
-            "name": "Online Shoping",
+            "id":2,
+            "name":"Online Shoping",
             "amount": 100.0
         },
         {
@@ -30,14 +30,14 @@
             "name": "Fees",
             "amount": 30.0
         }
-],
+	],
 "profile":{
    "first_name":"Benjamin",
            "last_name":"franklin",
    "details":[
       "address":"fake avenue",
       "home_no":3454,
-      "phone_number:"+5565432323"
+      "phone_number":"+5565432323"
       ]
 }
 
