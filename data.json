@@ -1,0 +1,28 @@
+{
+  "id": 1,
+  "name": "Vipin",
+  "age": 25,
+  "places": [
+    "India",
+    "USA"
+  ],
+  "images": [
+    {
+      "id": 10,
+      "name": "img0",
+      "url": "https://randomuser.me/api/portraits/men/70.jpg"
+    },
+    {
+      "id": 11,
+      "name": "img1",
+      "url": "https://randomuser.me/api/portraits/men/99.jpg"
+    }
+  ],
+  "address": {
+    "street_no": "3423",
+    "details": {
+      "house_no": 3355,
+      "town": "Test Town"
+    }
+  }
+}
