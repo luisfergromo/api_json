@@ -1,44 +1,47 @@
 [
-   "list":[
+  {
+    "list": [
+      {
+        "id": 1,
+        "name": "Groceries",
+        "amount": 500
+      },
+      {
+        "id": 2,
+        "name": "Online Shoping",
+        "amount": 100
+      },
+      {
+        "id": 3,
+        "name": "Eating Ou",
+        "amount": 80
+      },
+      {
+        "id": 4,
+        "name": "Bills",
+        "amount": 50
+      },
+      {
+        "id": 5,
+        "name": "Subscriptions",
+        "amount": 100
+      },
+      {
+        "id": 6,
+        "name": "Fees",
+        "amount": 30
+      }
+    ],
+    "profile": {
+      "first_name": "Benjamin",
+      "last_name": "franklin",
+      "details": [
         {
-            "id": 1,
-            "name": "Groceries",
-            "amount": 500.0
-        },
-        {
-            "id":2,
-            "name":"Online Shoping",
-            "amount": 100.0
-        },
-        {
-            "id": 3,
-            "name": "Eating Ou",
-            "amount": 80.0
-        },
-        {
-            "id": 4,
-            "name": "Bills",
-            "amount": 50.0
-        },
-        {
-            "id": 5,
-            "name": "Subscriptions",
-            "amount": 100.0
-        },
-        {
-            "id": 6,
-            "name": "Fees",
-            "amount": 30.0
+          "address": "fake avenue",
+          "home_no": 3454,
+          "phone_number": "+5565432323"
         }
-	],
-"profile":{
-   "first_name":"Benjamin",
-           "last_name":"franklin"},
-   "details":[
-      "address":"fake avenue",
-      "home_no":3454,
-      "phone_number":"+5565432323"
       ]
-
-
+    }
+  }
 ]
