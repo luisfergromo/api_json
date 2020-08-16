@@ -30,9 +30,16 @@
         ],
         "primevideo": [
             {
-                "baseUrl": "https://www.primevideo.com/",
+                "baseUrl": "https://www.primevideo.com/search/?phrase=",
                 "category": [
-                    {}
+                    {
+                        "drama": [
+                            {
+                                "id": 1,
+                                "selector": "drama"
+                            }
+                        ]
+                    }
                 ]
             }
         ],
