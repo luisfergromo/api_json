@@ -1,0 +1,45 @@
+[
+    {
+        "netflix": [
+            {
+                "baseUrl": "https://www.netflix.com/browse/genre/",
+                "category": [
+                    {
+                        "action": [
+                            {
+                                "id": 1,
+                                "subcategory": "Action Movies",
+                                "selector": "2308431"
+                            },
+                            {
+                                "id": 2,
+                                "subcategory": "Action & Adventure",
+                                "selector": "1365"
+                            }
+                        ],
+                        "romantic": [
+                            {
+                                "id": 1,
+                                "subcategory": "Romantic Comedy",
+                                "selector": "60029995"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "primevideo": [
+            {
+                "baseUrl": "https://www.primevideo.com/",
+                "category": [
+                    {}
+                ]
+            }
+        ],
+        "disney": [
+            {
+                "baseUrl": "https://disneyplus.com/"
+            }
+        ]
+    }
+]
